@@ -1,0 +1,3 @@
+WCROOT_OFFSET:                          ${CONFIGURE_ROOT}/_src/gui/wxwidgets
+
+WXWIDGETS.SVN_SF.REPOROOT:              svn://${SVN_SF.HUB_ROOT}/contools/3dparty--wxwidgets
