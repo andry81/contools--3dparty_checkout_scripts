@@ -1,8 +1,6 @@
 * text=auto !eol
-gui/__init__.bat -text
 gui/wxwidgets/config.yaml.in -text
 gui/wxwidgets/wxwidgets-3_1_3-release/config.yaml.in -text
-utility/__init__.bat -text
 utility/fmt/config.yaml.in -text
 utility/fmt/fmt-6_1_2-release/config.yaml.in -text
 utility/pystring/config.yaml.in -text
